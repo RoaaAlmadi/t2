@@ -1,0 +1,11 @@
+feb.10/2020
+user interface= home page(desctop)
+
+input: get data into computer
+ 
+local disk(C:):
+
+index.htme: file extention
+styls.ess/ home.js
+
+hdml: mark langiage
